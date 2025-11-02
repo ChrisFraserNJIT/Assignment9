@@ -8,7 +8,5 @@ Throughout the next few assignments, features and changes will be made to this p
 
 This README will be updated every time something has been changed or added to this project.
 
-# Screenshots for validation tracking
-
 
 
